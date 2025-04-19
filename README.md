@@ -1,0 +1,1 @@
+# ESP32-GY-GPS6MV2-Energy-Saving-Configuration
